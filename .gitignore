@@ -377,3 +377,6 @@ common/models/lab/Sample_20190514.php
 frontend/modules/lab/components/eRequest - Copy.php
 frontend/modules/lab/controllers/SampleController_20191120.php
 common/config/db.php
+frontend/modules/finance/views/cashier/receipt/_form.php
+frontend/modules/finance/views/op/_form.php
+frontend/modules/lab/components/Printing.php
